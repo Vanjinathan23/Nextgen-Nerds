@@ -263,4 +263,4 @@ tetherX-hackathon-01/
 
 ---
 
-*Built with ❤️ by Zero Intercept Team for improved healthcare operations and patient outcomes.*
+*Built with ❤️ by Nextgen Nerds Team for improved healthcare operations and patient outcomes.*
