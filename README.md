@@ -236,7 +236,7 @@ tetherX-hackathon-01/
       <br />Frontend Development
     </td>
     <td align="center">
-      <a href="https://github.com/Akshaykumar-B">
+      <a href="https://github.com/Vanjinathan23">
         <img src="https://github.com/Akshaykumar-B.png" width="100px;" alt="Akshaykumar-B"/>
         <br /><sub><b>Akshaykumar-B</b></sub>
       </a>
@@ -245,16 +245,16 @@ tetherX-hackathon-01/
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/MR-WHOAMEYE">
-        <img src="https://github.com/MR-WHOAMEYE.png" width="100px;" alt="MR-WHOAMEYE"/>
-        <br /><sub><b>MR-WHOAMEYE</b></sub>
+      <a href="https://github.com/Adhil-B">
+        <img src="https://avatars.githubusercontent.com/u/75608493?v=4" width="100px;" alt="Adhil Bijukumar"/>
+        <br /><sub><b>Adhil Bijukumar</b></sub>
       </a>
       <br />Backend & Deployment
     </td>
     <td align="center">
-      <a href="https://github.com/mohan-kumar-12">
-        <img src="https://github.com/mohan-kumar-12.png" width="100px;" alt="mohan-kumar-12"/>
-        <br /><sub><b>mohan-kumar-12</b></sub>
+      <a href="https://github.com/varuntej-1705">
+        <img src="https://avatars.githubusercontent.com/u/192686524?v=4" width="100px;" alt="Varun Teja A"/>
+        <br /><sub><b>Varun Teja A</b></sub>
       </a>
       <br />Project Integration
     </td>
