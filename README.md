@@ -237,10 +237,10 @@ tetherX-hackathon-01/
     </td>
     <td align="center">
       <a href="https://github.com/Vanjinathan23">
-        <img src="https://github.com/Akshaykumar-B.png" width="100px;" alt="Akshaykumar-B"/>
-        <br /><sub><b>Akshaykumar-B</b></sub>
+        <img src="https://avatars.githubusercontent.com/u/205274397?v=4" width="100px;" alt="Vanjinathan S"/>
+        <br /><sub><b>Vanjinathan S</b></sub>
       </a>
-      <br />Database Designer
+      <br />API Development & Integration
     </td>
   </tr>
   <tr>
@@ -256,7 +256,7 @@ tetherX-hackathon-01/
         <img src="https://avatars.githubusercontent.com/u/192686524?v=4" width="100px;" alt="Varun Teja A"/>
         <br /><sub><b>Varun Teja A</b></sub>
       </a>
-      <br />Project Integration
+      <br />Database Management
     </td>
   </tr>
 </table>
